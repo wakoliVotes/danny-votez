@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Danny-Votez's GitHub stats](https://github-readme-stats.vercel.app/api?username=danny-votez)](https://github.com/danny-votez/github-readme-stats)
+[![Danny-Votez's GitHub stats](https://github-readme-stats.vercel.app/api?username=danny-votez&show_icons=true&theme=yeblu)](https://github.com/danny-votez/github-readme-stats)
+<hr styles="color: red">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny-votez&layout=compact)](https://github.com/danny-votez/github-readme-stats)
+
+<hr>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danny-votez&theme=yeblu&ring=311DDD)](https://git.io/streak-stats)
