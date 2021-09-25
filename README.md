@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-- 😄 My name is Votes, and my Mum calls me Danny. I always consider myself as a student of the world
+- 😄 I always consider myself as a student of the world, open to learn
 - 🌱 Am an enthusiatic Frontend-developer, Data Scientist and Aspiring Mobile Developer
 - 👯 My Frontend Development has been amazing, and it is still ongoing!
 - 🔭 Currently working on Myself
