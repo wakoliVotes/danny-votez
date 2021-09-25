@@ -37,12 +37,10 @@
 <hr>
 
 ### Current Interests:
-- Continuous improvement has always been my Mantra. As such, I am alway open to growing myself by learning new things individually and from others.
-- For now I am interested in learning;
+- As a developer, I am always open to growing. For now I am interested in learning;
 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
-<br>
 <br>
 <hr>
 
@@ -57,4 +55,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny-votez&layout=compact&langs_count=8)](https://github.com/danny-votez/github-readme-stats)
 
 <hr>
-
