@@ -7,6 +7,8 @@
 - 💬 Ask me about Front-end Development and Data Analysis
 - ⚡ Best Quote: Real Artists Ship - Steve Jobs
 
+<div align=center>
+
 <hr>
 
 ###  Main Technology Stack and Skills:
@@ -26,10 +28,8 @@
 
 <hr>
 
-### Data Analysis Skills:
+### Data Analysis Tech Pack:
 
-- I like numbers, and carrying out data analysis and deciphering insights has is something I am passionate about.
-- Technologies I use in this area are;
 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
@@ -37,7 +37,6 @@
 <hr>
 
 ### Current Interests:
-- As a developer, I am always open to growing. For now I am interested in learning;
 
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /><img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
@@ -55,3 +54,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny-votez&layout=compact&langs_count=8)](https://github.com/danny-votez/github-readme-stats)
 
 <hr>
+
+</div>
