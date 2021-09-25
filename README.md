@@ -56,6 +56,3 @@
 <hr>
 
 </div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danny-votez&repo=github-readme-stats)](https://github.com/danny-votez/github-readme-stats)
-
