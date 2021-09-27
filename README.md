@@ -59,5 +59,3 @@
 </div>
 
 <hr>
-
-https://metrics.lecoq.io/danny-votez?template=classic&isocalendar=1&languages=1&stars=1&followup=1&lines=1&achievements=1&isocalendar.duration=half-year&languages.ignored=html%2C%20css&languages.limit=20&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=30&stars.limit=4&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=10&config.timezone=Africa%2FNairobi
