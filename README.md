@@ -1,5 +1,10 @@
-### Hello World 👋
-
+<div align=center> 
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F70A04&center=true&lines=Hello+World,+%F0%9F%91%8B,+This+Is+My+World!)](https://git.io/typing-svg)  
+  
+  <hr width="60%">
+  </div>
+  
 - 😄 I always consider myself as a student of the world, open to learn
 - 🌱 Am an enthusiatic Frontend-developer, Data Scientist and Aspiring Mobile Developer
 - 👯 My Software Development has been amazing, and it is still ongoing!
@@ -8,7 +13,6 @@
 - ⚡ Best Quote: Real Artists Ship - Steve Jobs
 
 <div align=center>
-
 <hr>
 
 ###  Main Technology Stack and Skills:
@@ -57,6 +61,6 @@
 
 <hr>
 
-![Metrics](https://metrics.lecoq.io/danny-votez?template=classic&isocalendar=1&languages=1&stars=1&followup=1&lines=1&achievements=1&isocalendar.duration=half-year&languages.ignored=html%2C%20css&languages.limit=20&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=30&stars.limit=4&followup.sections=repositories&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=10&config.timezone=Africa%2FNairobi)
+
 
 </div>
