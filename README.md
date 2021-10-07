@@ -1,6 +1,6 @@
 <div align=center> 
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F70A04&center=true&lines=Hello+World%F0%9F%91%8B,+This+Is+My+Universe!)](https://git.io/typing-svg)  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F70A04&center=true&lines=<+Hello+World%F0%9F%91%8B,+My+Universe!+/>)](https://git.io/typing-svg)  
   
   <hr width="60%">
   </div>
