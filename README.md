@@ -8,10 +8,10 @@
 - 😄 I always consider myself as a student of the world, open to learn
 - 🌱 Am an enthusiatic Frontend-developer, Data Scientist and Aspiring Mobile Developer
 - 👯 My Software Development has been amazing, and it is still ongoing!
-- 🔭 Currently working on Myself
-- 💬 Ask me about Front-end Development and Data Analysis
+- 🔭 Currently working on Myself 🌟🌟
+- 💬 Ask me about Front-end Development and Data Analytics
 - ⚡ Best Quote: Real Artists Ship - Steve Jobs
-- ☎️ Reach Out and Explore more at <a href="https://scelland.com/index.html">ScellandHub</a>
+- ☎️ Reach Out and Explore more at<a href="https://scelland.com/index.html"> ScellandHub</a> 💖💕💞
 
 <div align=center>
 <hr>
