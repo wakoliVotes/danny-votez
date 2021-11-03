@@ -11,7 +11,7 @@
 - 🔭 Currently working on Myself
 - 💬 Ask me about Front-end Development and Data Analysis
 - ⚡ Best Quote: Real Artists Ship - Steve Jobs
-- ☎️ Reach Out and Explore more at <a href="https://scelland.com/index.html">Scelland Labs</a>
+- ☎️ Reach Out and Explore more at <a href="https://scelland.com/index.html">ScellandHub</a>
 
 <div align=center>
 <hr>
