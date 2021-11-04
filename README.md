@@ -11,7 +11,7 @@
 - 🔭 Currently working on Myself 🌟🌟
 - 💬 Ask me about Front-end Development and Data Analytics
 - ⚡ Best Quote: Real Artists Ship - Steve Jobs
-- ☎️ Reach Out and Explore more at<a href="https://scelland.com/index.html"> ScellandHub</a> 💖💕💞
+- ☎️ Reach Out and Explore more at: <a href="https://scelland.com/index.html"> ScellandHub</a> 💖💕💞
 
 <div align=center>
 <hr>
@@ -60,9 +60,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny-votez&layout=compact&langs_count=8&hide=,html)](https://github.com/danny-votez/github-readme-stats)
 
-
 <hr>
-
-
 
 </div>
