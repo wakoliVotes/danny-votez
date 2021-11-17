@@ -10,7 +10,7 @@
 - ⌚ My Software Development has been amazing, and it is still ongoing!
 - 🔭 Currently working on Myself 🌟🌟
 - 💬 Ask me about Front-end Development and Data Analytics
-- ⚡ Best Quote: Real Artists Ship - Steve Jobs
+- ⚡ Best Quote: "Real Artists Ship" - Steve Jobs
 - ☎️ Reach Out and Explore more at: <a href="https://scelland.com/index.html" target="blank" rel="noopener"> Scelland </a> 💖
 
 <div align=center>
