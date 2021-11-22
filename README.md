@@ -50,13 +50,13 @@
 <br>
 <hr>
 
-[![Danny-Votez's GitHub stats](https://github-readme-stats.vercel.app/api?username=danny-votez&show_icons=true&theme=yeblu)](https://github.com/danny-votez/github-readme-stats)
+<!-- [![Danny-Votez's GitHub stats](https://github-readme-stats.vercel.app/api?username=danny-votez&show_icons=true&theme=yeblu)](https://github.com/danny-votez/github-readme-stats) -->
 
-<hr>
+<!-- <hr> -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danny-votez&theme=yeblu&ring=311DDD)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danny-votez&theme=yeblu&ring=311DDD)](https://git.io/streak-stats) -->
 
-<hr>
+<!-- <hr> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny-votez&layout=compact&langs_count=8&hide=,html)](https://github.com/danny-votez/github-readme-stats)
 
