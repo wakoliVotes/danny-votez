@@ -5,7 +5,6 @@
   <hr width="60%">
   </div>
   
-- 😄 I always consider myself as a student of the world, open to learn
 - 🌱 Am an enthusiatic Frontend-developer, Data Scientist and Aspiring Android Developer
 - ⌚ My Software Development has been amazing, and it is still ongoing!
 - 🔭 Currently working on Myself 🌟🌟
