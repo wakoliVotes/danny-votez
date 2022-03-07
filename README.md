@@ -13,7 +13,7 @@
   
   <hr width="80%">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny-votez&theme=omni&am&layout=compact&langs_count=8&hide=jupyter%20notebook,html)](https://github.com/danny-votez/github-readme-stats)  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danny-votez&theme=omni&am&layout=compact&langs_count=8&hide=jupyter%20notebook)](https://github.com/danny-votez/github-readme-stats)  
   
 <hr width="60%">    
   
