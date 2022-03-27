@@ -6,7 +6,7 @@
 - 🌱 A Frontend-developer, Data Scientist and Aspiring Android Developer
 - ⌚ My Software Development has been amazing, and it is still ongoing!
 - 🔭 Working on Myself 🌟🌟
-- 💬 Ask me about Front-end Development and Data Analytics
+- 💬 Ask me about Front-end Development, Android Development and Data Analytics
 - ⚡ Best Quote: "<strong><em>Real Artists Ship</em></strong>" - Steve Jobs
 
 <div align=center>
